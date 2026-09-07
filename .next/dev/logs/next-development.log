@@ -1,0 +1,6 @@
+{"timestamp":"00:00:13.380","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:19.650","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/hero-visual.jpg\" \"received\" null"}
+{"timestamp":"00:00:19.853","source":"Browser","level":"INFO","message":"%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold"}
+{"timestamp":"00:00:27.210","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/projects/electratech.jpg\" \"received\" null"}
+{"timestamp":"00:00:28.451","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/projects/gout-parfait.jpg\" \"received\" null"}
+{"timestamp":"00:00:28.458","source":"Server","level":"ERROR","message":"⨯ \"The requested resource isn't a valid image for\" \"/images/projects/portfolio.jpg\" \"received\" null"}
