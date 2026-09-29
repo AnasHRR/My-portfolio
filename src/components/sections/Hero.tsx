@@ -72,9 +72,14 @@ export function Hero() {
                 <Icon name="mapPin" size={16} className="text-accent" />
                 {t.hero.based}
               </span>
-              <a href={`mailto:${profile.email}`} className="inline-flex items-center gap-2 transition-colors hover:text-fg">
-                <Icon name="mail" size={16} className="text-accent" />
-                {profile.email}
+              <a
+                href={profile.whatsappHref}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 transition-colors hover:text-fg"
+              >
+                <Icon name="whatsapp" size={16} className="text-accent" />
+                {profile.whatsappNumber}
               </a>
             </div>
           </div>
@@ -88,7 +93,7 @@ export function Hero() {
 
               <div className="card absolute inset-[3%] overflow-hidden rounded-[2rem] border-line-strong bg-bg-elevated shadow-elevated">
                 <Image
-                  src="/images/hero-visual.jpg"
+                  src="/images/profile.jpeg"
                   alt=""
                   fill
                   priority

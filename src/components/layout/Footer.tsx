@@ -86,9 +86,14 @@ export function Footer() {
             <h2 className="text-xs font-semibold uppercase tracking-[0.18em] text-fg-subtle">{t.footer.contact}</h2>
             <ul className="mt-4 space-y-2.5 text-sm">
               <li>
-                <a href={`mailto:${profile.email}`} className="inline-flex items-center gap-2 text-fg-muted transition-colors hover:text-fg">
-                  <Icon name="mail" size={15} className="text-accent" />
-                  <span className="break-all">{profile.email}</span>
+                <a
+                  href={profile.whatsappHref}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 text-fg-muted transition-colors hover:text-fg"
+                >
+                  <Icon name="whatsapp" size={15} className="text-accent" />
+                  {profile.whatsappNumber}
                 </a>
               </li>
               <li>

@@ -154,7 +154,8 @@ const profile = {
     },
     phone: "0706200331",
     phoneHref: "tel:+212706200331",
-    email: "anas1lagziri@gmail.com",
+    whatsappNumber: "+212706200331",
+    whatsappHref: "https://wa.me/212706200331",
     cvPath: "/cv/Anas-Lagziri-CV.pdf",
     /**
    * Social links — only rendered when a URL is provided.

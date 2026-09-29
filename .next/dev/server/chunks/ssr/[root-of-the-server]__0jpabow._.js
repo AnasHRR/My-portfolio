@@ -173,31 +173,11 @@ const fr = {
         text: "Vous avez un projet web, une opportunité professionnelle ou simplement une idée à partager ? N'hésitez pas à me contacter.",
         location: "Localisation",
         phone: "Téléphone",
-        email: "E-mail",
-        form: {
-            name: "Nom",
-            namePlaceholder: "Votre nom complet",
-            email: "Email",
-            emailPlaceholder: "votre@email.com",
-            subject: "Sujet",
-            subjectPlaceholder: "Stage, projet, collaboration…",
-            message: "Message",
-            messagePlaceholder: "Décrivez votre projet ou votre demande…",
-            submit: "Envoyer",
-            sending: "Envoi en cours…",
-            success: "Merci ! Votre message a bien été envoyé. Je vous répondrai rapidement.",
-            error: "Une erreur est survenue. Veuillez réessayer ou m'écrire directement par e-mail.",
-            errors: {
-                nameRequired: "Veuillez indiquer votre nom.",
-                nameShort: "Le nom doit contenir au moins 2 caractères.",
-                emailRequired: "Veuillez indiquer votre e-mail.",
-                emailInvalid: "Veuillez saisir une adresse e-mail valide.",
-                subjectRequired: "Veuillez indiquer un sujet.",
-                subjectShort: "Le sujet doit contenir au moins 3 caractères.",
-                messageRequired: "Veuillez écrire un message.",
-                messageShort: "Le message doit contenir au moins 20 caractères."
-            }
-        }
+        whatsapp: "WhatsApp",
+        ctaTitle: "Discutons sur WhatsApp",
+        ctaText: "La façon la plus rapide de me joindre. Écrivez-moi directement, je réponds vite.",
+        ctaButton: "Message sur WhatsApp",
+        ctaHint: "Ou appelez-moi au"
     },
     footer: {
         tagline: "Développeur Web Full Stack",
@@ -360,31 +340,11 @@ const en = {
         text: "Do you have a web project, a professional opportunity or simply an idea to share? Feel free to get in touch.",
         location: "Location",
         phone: "Phone",
-        email: "Email",
-        form: {
-            name: "Name",
-            namePlaceholder: "Your full name",
-            email: "Email",
-            emailPlaceholder: "you@email.com",
-            subject: "Subject",
-            subjectPlaceholder: "Internship, project, collaboration…",
-            message: "Message",
-            messagePlaceholder: "Describe your project or request…",
-            submit: "Send",
-            sending: "Sending…",
-            success: "Thank you! Your message has been sent. I'll get back to you shortly.",
-            error: "Something went wrong. Please try again or email me directly.",
-            errors: {
-                nameRequired: "Please enter your name.",
-                nameShort: "Name must be at least 2 characters.",
-                emailRequired: "Please enter your email.",
-                emailInvalid: "Please enter a valid email address.",
-                subjectRequired: "Please enter a subject.",
-                subjectShort: "Subject must be at least 3 characters.",
-                messageRequired: "Please write a message.",
-                messageShort: "Message must be at least 20 characters."
-            }
-        }
+        whatsapp: "WhatsApp",
+        ctaTitle: "Let's chat on WhatsApp",
+        ctaText: "The fastest way to reach me. Message me directly — I reply quickly.",
+        ctaButton: "Message me on WhatsApp",
+        ctaHint: "Or call me at"
     },
     footer: {
         tagline: "Full Stack Web Developer",

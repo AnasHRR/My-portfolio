@@ -13,28 +13,28 @@ const paths = {
         d: "M5 12h14M13 6l6 6-6 6"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 44,
+        lineNumber: 45,
         columnNumber: 15
     }, ("TURBOPACK compile-time value", void 0)),
     arrowDown: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
         d: "M12 5v14M6 13l6 6 6-6"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 45,
+        lineNumber: 46,
         columnNumber: 14
     }, ("TURBOPACK compile-time value", void 0)),
     arrowUp: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
         d: "M12 19V5M6 11l6-6 6 6"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 46,
+        lineNumber: 47,
         columnNumber: 12
     }, ("TURBOPACK compile-time value", void 0)),
     download: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
         d: "M12 3v12M7 10l5 5 5-5M4 17v2a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-2"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 47,
+        lineNumber: 48,
         columnNumber: 13
     }, ("TURBOPACK compile-time value", void 0)),
     mail: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
@@ -47,14 +47,14 @@ const paths = {
                 rx: "2"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 50,
+                lineNumber: 51,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "m3 7 9 6 9-6"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 51,
+                lineNumber: 52,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -63,7 +63,14 @@ const paths = {
         d: "M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6.2 6.2l1.3-1.3a2 2 0 0 1 2.1-.5c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 55,
+        lineNumber: 56,
+        columnNumber: 5
+    }, ("TURBOPACK compile-time value", void 0)),
+    whatsapp: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
+        d: "M12 2a9.9 9.9 0 0 0-8.6 14.9L2 22l5.3-1.4A9.9 9.9 0 1 0 12 2zm5 13.9c-.2.6-1.2 1.1-1.7 1.2-.4.1-1 .1-1.6-.1-.4-.1-.9-.3-1.5-.5-2.6-1.1-4.3-3.7-4.4-3.9-.1-.2-1-1.4-1-2.6 0-1.2.6-1.8.9-2.1.2-.2.5-.3.7-.3h.5c.2 0 .4 0 .6.4.2.5.7 1.8.8 1.9.1.1.1.3 0 .4-.1.2-.1.3-.3.5l-.4.5c-.1.1-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.4 2.4 1.5.3.1.5.1.6-.1.2-.2.7-.8.9-1.1.2-.3.4-.2.6-.1.3.1 1.7.8 2 1 .3.1.5.2.6.3.1.2.1.8-.1 1.5z"
+    }, void 0, false, {
+        fileName: "[project]/src/components/ui/Icons.tsx",
+        lineNumber: 59,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0)),
     mapPin: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
@@ -72,7 +79,7 @@ const paths = {
                 d: "M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0z"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 59,
+                lineNumber: 63,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
@@ -81,7 +88,7 @@ const paths = {
                 r: "3"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 60,
+                lineNumber: 64,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -90,7 +97,7 @@ const paths = {
         d: "M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.1-1.3-.3-2.5-1-3.5.3-1.2.3-2.4 0-3.5 0 0-1 0-3 1.5-2.6-.5-5.4-.5-8 0C6 2 5 2 5 2c-.3 1.2-.3 2.4 0 3.5A5.4 5.4 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.4.4-.7.9-.8 1.5-.2.5-.2 1.1-.2 1.7V22M9 18c-4.5 1.5-4.5-2.5-6-3"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 64,
+        lineNumber: 68,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0)),
     linkedin: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
@@ -99,7 +106,7 @@ const paths = {
                 d: "M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-4 0v7h-4v-7a6 6 0 0 1 6-6z"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 68,
+                lineNumber: 72,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("rect", {
@@ -109,7 +116,7 @@ const paths = {
                 height: "12"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 69,
+                lineNumber: 73,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
@@ -118,7 +125,7 @@ const paths = {
                 r: "2"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 70,
+                lineNumber: 74,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -133,7 +140,7 @@ const paths = {
                 rx: "5"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 75,
+                lineNumber: 79,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
@@ -142,14 +149,14 @@ const paths = {
                 r: "4"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 76,
+                lineNumber: 80,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "M17.5 6.5h.01"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 77,
+                lineNumber: 81,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -162,14 +169,14 @@ const paths = {
                 r: "4"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 82,
+                lineNumber: 86,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 83,
+                lineNumber: 87,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -178,42 +185,42 @@ const paths = {
         d: "M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9z"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 86,
+        lineNumber: 90,
         columnNumber: 9
     }, ("TURBOPACK compile-time value", void 0)),
     menu: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
         d: "M4 7h16M4 12h16M4 17h16"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 87,
+        lineNumber: 91,
         columnNumber: 9
     }, ("TURBOPACK compile-time value", void 0)),
     x: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
         d: "M18 6 6 18M6 6l12 12"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 88,
+        lineNumber: 92,
         columnNumber: 6
     }, ("TURBOPACK compile-time value", void 0)),
     externalLink: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
         d: "M15 3h6v6M10 14 21 3M21 14v5a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 89,
+        lineNumber: 93,
         columnNumber: 17
     }, ("TURBOPACK compile-time value", void 0)),
     check: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
         d: "m5 12 5 5L20 7"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 90,
+        lineNumber: 94,
         columnNumber: 10
     }, ("TURBOPACK compile-time value", void 0)),
     code: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
         d: "m16 18 6-6-6-6M8 6l-6 6 6 6"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 91,
+        lineNumber: 95,
         columnNumber: 9
     }, ("TURBOPACK compile-time value", void 0)),
     server: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
@@ -226,7 +233,7 @@ const paths = {
                 rx: "2"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 94,
+                lineNumber: 98,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("rect", {
@@ -237,14 +244,14 @@ const paths = {
                 rx: "2"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 95,
+                lineNumber: 99,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "M6 6.5h.01M6 17.5h.01"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 96,
+                lineNumber: 100,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -258,14 +265,14 @@ const paths = {
                 ry: "3"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 101,
+                lineNumber: 105,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "M3 5v14c0 1.7 4 3 9 3s9-1.3 9-3V5M3 12c0 1.7 4 3 9 3s9-1.3 9-3"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 102,
+                lineNumber: 106,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -278,7 +285,7 @@ const paths = {
                 r: "1"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 107,
+                lineNumber: 111,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
@@ -287,14 +294,14 @@ const paths = {
                 r: "1"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 108,
+                lineNumber: 112,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "M2.05 2.05h2l2.66 12.42a2 2 0 0 0 2 1.58h9.78a2 2 0 0 0 1.95-1.57l1.65-7.43H5.12"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 109,
+                lineNumber: 113,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -307,14 +314,14 @@ const paths = {
                 r: "10"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 114,
+                lineNumber: 118,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "m16.2 7.8-2.2 6.2-6.2 2.2 2.2-6.2z"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 115,
+                lineNumber: 119,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -325,7 +332,7 @@ const paths = {
                 d: "M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 120,
+                lineNumber: 124,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("circle", {
@@ -334,14 +341,14 @@ const paths = {
                 r: "4"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 121,
+                lineNumber: 125,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "M22 21v-2a4 4 0 0 0-3-3.9M16 3.1a4 4 0 0 1 0 7.8"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 122,
+                lineNumber: 126,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -350,7 +357,7 @@ const paths = {
         d: "m12 2 10 5-10 5L2 7l10-5zM2 12l10 5 10-5M2 17l10 5 10-5"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 125,
+        lineNumber: 129,
         columnNumber: 11
     }, ("TURBOPACK compile-time value", void 0)),
     clock: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
@@ -361,14 +368,14 @@ const paths = {
                 r: "10"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 128,
+                lineNumber: 132,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "M12 6v6l4 2"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 129,
+                lineNumber: 133,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -381,14 +388,14 @@ const paths = {
                 r: "8"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 134,
+                lineNumber: 138,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "m21 21-4.3-4.3"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 135,
+                lineNumber: 139,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -397,14 +404,14 @@ const paths = {
         d: "M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.4-.5-2-1-3-1.1-2.2-.2-4.1 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.2.2-2.4 1-3.5.5 1 1.5 2 2.5 3z"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 139,
+        lineNumber: 143,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0)),
     book: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
         d: "M4 19.5A2.5 2.5 0 0 1 6.5 17H20M4 19.5A2.5 2.5 0 0 0 6.5 22H20V2H6.5A2.5 2.5 0 0 0 4 4.5v15z"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 141,
+        lineNumber: 145,
         columnNumber: 9
     }, ("TURBOPACK compile-time value", void 0)),
     cpu: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
@@ -417,7 +424,7 @@ const paths = {
                 rx: "2"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 144,
+                lineNumber: 148,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("rect", {
@@ -427,14 +434,14 @@ const paths = {
                 height: "6"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 145,
+                lineNumber: 149,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "M9 2v2M15 2v2M9 20v2M15 20v2M2 9h2M2 15h2M20 9h2M20 15h2"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 146,
+                lineNumber: 150,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -449,14 +456,14 @@ const paths = {
                 rx: "2"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 151,
+                lineNumber: 155,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "M8 21h8M12 17v4"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 152,
+                lineNumber: 156,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -469,14 +476,14 @@ const paths = {
                 r: "10"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 157,
+                lineNumber: 161,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "m12 7 4.8 3.5-1.8 5.6H9l-1.8-5.6zM12 2v5M4.4 8.5 7.2 10.5M19.6 8.5l-2.8 2M6.6 20.2 9 16.1M17.4 20.2 15 16.1"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 158,
+                lineNumber: 162,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -491,14 +498,14 @@ const paths = {
                 rx: "2"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 163,
+                lineNumber: 167,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "M16 7V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v2M2 13h20"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 164,
+                lineNumber: 168,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -509,14 +516,14 @@ const paths = {
                 d: "M22 10 12 5 2 10l10 5 10-5z"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 169,
+                lineNumber: 173,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "M6 12v5c3 3 9 3 12 0v-5M22 10v6"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 170,
+                lineNumber: 174,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -529,14 +536,14 @@ const paths = {
                 r: "10"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 175,
+                lineNumber: 179,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "M2 12h20M12 2a15 15 0 0 1 4 10 15 15 0 0 1-4 10 15 15 0 0 1-4-10 15 15 0 0 1 4-10z"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 176,
+                lineNumber: 180,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -545,7 +552,7 @@ const paths = {
         d: "m22 2-7 20-4-9-9-4 20-7zM22 2 11 13"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 179,
+        lineNumber: 183,
         columnNumber: 9
     }, ("TURBOPACK compile-time value", void 0)),
     layout: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
@@ -558,14 +565,14 @@ const paths = {
                 rx: "2"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 182,
+                lineNumber: 186,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "M3 9h18M9 21V9"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 183,
+                lineNumber: 187,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -574,14 +581,14 @@ const paths = {
         d: "M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 187,
+        lineNumber: 191,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0)),
     terminal: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
         d: "m4 17 6-6-6-6M12 19h8"
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 189,
+        lineNumber: 193,
         columnNumber: 13
     }, ("TURBOPACK compile-time value", void 0)),
     alert: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
@@ -592,14 +599,14 @@ const paths = {
                 r: "10"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 192,
+                lineNumber: 196,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("path", {
                 d: "M12 8v4M12 16h.01"
             }, void 0, false, {
                 fileName: "[project]/src/components/ui/Icons.tsx",
-                lineNumber: 193,
+                lineNumber: 197,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]
@@ -623,7 +630,7 @@ function Icon({ name, size = 20, className, ...props }) {
         children: paths[name]
     }, void 0, false, {
         fileName: "[project]/src/components/ui/Icons.tsx",
-        lineNumber: 205,
+        lineNumber: 209,
         columnNumber: 5
     }, this);
 }
@@ -658,7 +665,8 @@ const profile = {
     },
     phone: "0706200331",
     phoneHref: "tel:+212706200331",
-    email: "anas1lagziri@gmail.com",
+    whatsappNumber: "+212706200331",
+    whatsappHref: "https://wa.me/212706200331",
     cvPath: "/cv/Anas-Lagziri-CV.pdf",
     /**
    * Social links — only rendered when a URL is provided.
@@ -2101,7 +2109,7 @@ function Hero() {
                                             className: "card absolute inset-[3%] overflow-hidden rounded-[2rem] border-line-strong bg-bg-elevated shadow-elevated",
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["default"], {
-                                                    src: "/images/hero-visual.jpg",
+                                                    src: "/images/profile.jpeg",
                                                     alt: "",
                                                     fill: true,
                                                     priority: true,
@@ -3161,7 +3169,7 @@ const projects = [
             "JavaScript",
             "HTML/CSS"
         ],
-        image: "/images/projects/electratech.jpg",
+        image: "/images/projects/electratech.png",
         imageAlt: {
             fr: "Aperçu de la boutique en ligne ElectraTech",
             en: "Preview of the ElectraTech online store"
@@ -3170,16 +3178,16 @@ const projects = [
         liveUrl: ""
     },
     {
-        id: "le-gout-parfait",
-        name: "Le Goût Parfait",
-        year: "2024",
+        id: "cabinet-dentaire",
+        name: "Cabinet Dentaire",
+        year: "2025",
         tagline: {
-            fr: "Site web de restaurant",
-            en: "Restaurant website"
+            fr: "Site web de cabinet dentaire",
+            en: "Dental clinic website"
         },
         description: {
-            fr: "Application web pour restaurant permettant de présenter les produits/services et de gérer les interactions avec les utilisateurs.",
-            en: "Web application for a restaurant to showcase its products/services and manage user interactions."
+            fr: "Application web pour cabinet dentaire permettant de présenter les services et de gérer les interactions avec les patients.",
+            en: "Web application for a dental clinic to showcase its services and manage patient interactions."
         },
         features: [
             {
@@ -3187,12 +3195,12 @@ const projects = [
                 en: "Responsive interface"
             },
             {
-                fr: "Présentation du restaurant et de la carte",
-                en: "Restaurant and menu presentation"
+                fr: "Présentation du cabinet et des services",
+                en: "Clinic and service presentation"
             },
             {
-                fr: "Système de contact / commande",
-                en: "Contact / order system"
+                fr: "Système de contact / réservation",
+                en: "Contact / booking system"
             },
             {
                 fr: "Back-end PHP et base de données MySQL",
@@ -3207,14 +3215,15 @@ const projects = [
             "HTML",
             "CSS",
             "JavaScript",
-            "PHP",
-            "MySQL",
-            "PHPMailer"
+            "NoSQL",
+            "React.js",
+            "Node.js",
+            "Express.js"
         ],
-        image: "/images/projects/gout-parfait.jpg",
+        image: "/images/projects/cabinet dentaire.jpeg",
         imageAlt: {
-            fr: "Aperçu du site web du restaurant Le Goût Parfait",
-            en: "Preview of the Le Goût Parfait restaurant website"
+            fr: "Aperçu du site web du cabinet dentaire",
+            en: "Preview of the dental clinic website"
         },
         githubUrl: "",
         liveUrl: ""
