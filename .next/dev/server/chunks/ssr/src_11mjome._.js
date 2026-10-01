@@ -3003,7 +3003,7 @@ const projects = [
             "JavaScript",
             "HTML/CSS"
         ],
-        image: "/images/projects/electratech.png",
+        image: "/images/projects/electrat1ech.png",
         imageAlt: {
             fr: "Aperçu de la boutique en ligne ElectraTech",
             en: "Preview of the ElectraTech online store"
@@ -3054,7 +3054,7 @@ const projects = [
             "Node.js",
             "Express.js"
         ],
-        image: "/images/projects/cabinet dentaire.jpeg",
+        image: "/images/projects/cabinet.png",
         imageAlt: {
             fr: "Aperçu du site web du cabinet dentaire",
             en: "Preview of the dental clinic website"
@@ -3103,7 +3103,7 @@ const projects = [
             "TypeScript",
             "PostgreSQL"
         ],
-        image: "/images/projects/portfolio.jpg",
+        image: "/images/projects/portfolioA.png",
         imageAlt: {
             fr: "Aperçu du portfolio personnel",
             en: "Preview of the personal portfolio"
