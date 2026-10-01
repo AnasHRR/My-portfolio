@@ -47,4 +47,9 @@ src/
 
 ## Scripts
 
-
+```bash
+npm run dev      # development
+npm run build    # production build
+npm run start    # production server
+npx drizzle-kit push   # apply schema to the database
+```
