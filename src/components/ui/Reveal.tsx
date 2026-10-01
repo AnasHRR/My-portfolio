@@ -1,8 +1,8 @@
 "use client";
 
-import { useEffect, useRef, type CSSProperties, type ElementType, type ReactNode } from "react";
+import { useEffect, useRef, type CSSProperties, type ElementType, type HTMLAttributes, type ReactNode } from "react";
 
-interface RevealProps {
+interface RevealProps extends HTMLAttributes<HTMLElement> {
   children: ReactNode;
   className?: string;
   /** Delay in ms — used for staggered lists. */
@@ -15,7 +15,7 @@ interface RevealProps {
  * Lightweight scroll-reveal using IntersectionObserver.
  * Respects prefers-reduced-motion through CSS (see globals.css).
  */
-export function Reveal({ children, className = "", delay = 0, as: Tag = "div", id }: RevealProps) {
+export function Reveal({ children, className = "", delay = 0, as: Tag = "div", id, ...rest }: RevealProps) {
   const ref = useRef<HTMLElement | null>(null);
 
   useEffect(() => {
@@ -46,7 +46,7 @@ export function Reveal({ children, className = "", delay = 0, as: Tag = "div", i
   const style = delay ? ({ "--reveal-delay": `${delay}ms` } as CSSProperties) : undefined;
 
   return (
-    <Tag ref={ref} id={id} className={`reveal ${className}`} style={style}>
+    <Tag ref={ref} id={id} className={`reveal ${className}`} style={style} {...rest}>
       {children}
     </Tag>
   );

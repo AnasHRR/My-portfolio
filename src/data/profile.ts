@@ -18,9 +18,9 @@ export const profile = {
    * Leave `url` empty until the real profile URL is known (never invent one).
    */
   socials: [
-    { id: "github", label: "GitHub", url: "" },
-    { id: "linkedin", label: "LinkedIn", url: "" },
-    { id: "instagram", label: "Instagram", url: "" },
+    { id: "github", label: "GitHub", url: "https://github.com/AnasHRR" },
+    { id: "linkedin", label: "LinkedIn", url: "https://www.linkedin.com/in/anas-lagziri-093705281" },
+    { id: "instagram", label: "Instagram", url: "https://www.instagram.com/anas_alpha78" },
   ] as { id: "github" | "linkedin" | "instagram"; label: string; url: string }[],
 } as const;
 

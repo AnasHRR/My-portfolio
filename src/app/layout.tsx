@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import type { ReactNode } from "react";
 import { Inter, Manrope } from "next/font/google";
 import { SiteProvider, themeInitScript } from "@/components/providers/SiteProvider";
+import { ScrollToTop } from "@/components/layout/ScrollToTop";
 import { siteUrl } from "@/data/profile";
 import "./globals.css";
 
@@ -94,6 +95,7 @@ const personJsonLd = {
   address: { "@type": "PostalAddress", addressLocality: "Fès", addressCountry: "MA" },
   knowsAbout: ["React.js", "Laravel", "Node.js", "Express.js", "PHP", "MySQL", "MongoDB", "Tailwind CSS", "REST API"],
   alumniOf: { "@type": "EducationalOrganization", name: "OFPPT — ISTA Al Darissa" },
+  sameAs: ["https://github.com/AnasHRR", "https://www.linkedin.com/in/anas-lagziri-093705281", "https://www.instagram.com/anas_alpha78"],
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
@@ -107,7 +109,10 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         </noscript>
       </head>
       <body className="min-h-screen bg-bg font-sans text-fg antialiased">
-        <SiteProvider>{children}</SiteProvider>
+        <SiteProvider>
+          {children}
+          <ScrollToTop />
+        </SiteProvider>
       </body>
     </html>
   );

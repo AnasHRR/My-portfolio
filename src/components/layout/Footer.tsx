@@ -2,6 +2,7 @@
 
 import { useSite } from "@/components/providers/SiteProvider";
 import { Icon } from "@/components/ui/Icons";
+import { Reveal } from "@/components/ui/Reveal";
 import { profile } from "@/data/profile";
 
 export function Footer() {
@@ -24,7 +25,7 @@ export function Footer() {
       <div className="container-x py-14 sm:py-16">
         <div className="grid gap-10 md:grid-cols-[1.4fr_1fr_1fr] lg:gap-16">
           {/* Brand */}
-          <div>
+          <Reveal>
             <a href="#accueil" className="inline-flex items-center gap-3 font-display text-lg font-extrabold text-fg">
               <span className="grid h-10 w-10 place-items-center rounded-xl bg-accent text-sm font-black text-accent-fg">
                 {profile.initials}
@@ -65,24 +66,34 @@ export function Footer() {
                 </div>
               )}
             </div>
-          </div>
+          </Reveal>
 
           {/* Navigation */}
-          <nav aria-label={t.footer.navigation}>
+          <Reveal as="nav" aria-label={t.footer.navigation} delay={100}>
             <h2 className="text-xs font-semibold uppercase tracking-[0.18em] text-fg-subtle">{t.footer.navigation}</h2>
-            <ul className="mt-4 grid grid-cols-2 gap-x-6 gap-y-2.5 md:grid-cols-1">
-              {links.map((l) => (
-                <li key={l.id}>
-                  <a href={`#${l.id}`} className="text-sm text-fg-muted transition-colors hover:text-fg">
-                    {l.label}
+            <ul className="mt-4 grid grid-cols-2 gap-x-6 md:grid-cols-1">
+              {links.map((l, i) => (
+                <Reveal as="li" key={l.id} delay={i * 60}>
+                  <a
+                    href={`#${l.id}`}
+                    className="group inline-flex items-center py-1.5 text-sm text-fg-muted transition-all duration-300 hover:text-fg"
+                  >
+                    {/* Accent line that grows in on hover */}
+                    <span
+                      aria-hidden="true"
+                      className="h-px w-0 shrink-0 bg-accent transition-all duration-300 ease-out group-hover:w-4"
+                    />
+                    <span className="transition-transform duration-300 ease-out group-hover:translate-x-1.5">
+                      {l.label}
+                    </span>
                   </a>
-                </li>
+                </Reveal>
               ))}
             </ul>
-          </nav>
+          </Reveal>
 
           {/* Contact */}
-          <div>
+          <Reveal delay={200}>
             <h2 className="text-xs font-semibold uppercase tracking-[0.18em] text-fg-subtle">{t.footer.contact}</h2>
             <ul className="mt-4 space-y-2.5 text-sm">
               <li>
@@ -109,23 +120,13 @@ export function Footer() {
                 </a>
               </li>
             </ul>
-          </div>
+          </Reveal>
         </div>
 
-        <div className="mt-12 flex flex-col gap-4 border-t border-line pt-6 sm:flex-row sm:items-center sm:justify-between">
+        <Reveal delay={300} className="mt-12 flex flex-col gap-4 border-t border-line pt-6 sm:flex-row sm:items-center sm:justify-between">
           <p className="text-xs text-fg-subtle sm:text-sm">{t.footer.rights}</p>
-          <div className="flex items-center justify-between gap-4 sm:justify-end">
-            <p className="text-xs text-fg-subtle">{t.footer.built}</p>
-            <a
-              href="#accueil"
-              aria-label={t.footer.top}
-              title={t.footer.top}
-              className="grid h-10 w-10 shrink-0 place-items-center rounded-full border border-line bg-surface text-fg-muted transition-all hover:-translate-y-0.5 hover:border-accent/60 hover:text-fg"
-            >
-              <Icon name="arrowUp" size={16} />
-            </a>
-          </div>
-        </div>
+          <p className="text-xs text-fg-subtle">{t.footer.built}</p>
+        </Reveal>
       </div>
     </footer>
   );
